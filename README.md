@@ -29,9 +29,10 @@ Built with Streamlit, providing an intuitive user interface for inputs and resul
 1. Python (>= 3.7)
 2. Pandas
 3. NumPy
-4. Scikit-Learn
-5. Streamlit
-6. Pickle
+4. xgboost
+5. Scikit-Learn
+6. Streamlit
+7. Pickle
 
 # Prediction Logic
 
