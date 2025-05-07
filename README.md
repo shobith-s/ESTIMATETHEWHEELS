@@ -2,7 +2,7 @@
 
 ## A Machine Learning App to Estimate Car Resale Prices Based on Market Trends and Car Features
 
-## overview
+## Overview
 The Car Resale Value Prediction app uses machine learning to estimate the resale value of cars based on various parameters such as car specifications, color demand preferences, and accident history. This interactive web application provides users with a data-driven price estimation for better decision-making when buying or selling cars.
 
 # Features
